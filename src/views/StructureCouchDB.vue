@@ -75,7 +75,7 @@ export default {
 
 
 
-console.log("Ok tamer")
+console.log("Ok tr")
 
 </script>
 
